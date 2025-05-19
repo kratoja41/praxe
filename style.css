@@ -80,11 +80,13 @@ body {
 .login-btn {
     background-color: #cc004c;
     color: white;
-    padding: 10px;
+    padding: 10px 20px;
     border: none;
     border-radius: 25px;
     font-size: 16px;
     cursor: pointer;
+    width: 60%;
+    align-self: center;
 }
 
 .divider {
@@ -124,6 +126,8 @@ body {
     border-radius: 25px;
     font-size: 16px;
     cursor: pointer;
+    width: 70%;
+align-self: center;
 }
 
 .existing-donor {
